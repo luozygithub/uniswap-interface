@@ -1,0 +1,1 @@
+{"version":3,"sources":["nft/pages/asset/Asset.tsx"],"names":["Asset"],"mappings":"oJAIeA,UAJD,WACZ,OAAO","file":"static/js/43.f90d7f3e.chunk.js","sourcesContent":["const Asset = () => {\n  return <div>NFT Details Page</div>\n}\n\nexport default Asset\n"],"sourceRoot":""}
